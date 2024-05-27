@@ -11,7 +11,7 @@ const LanguagesKnown: [{ string }] = [
   { "NodeJS", "?" },
   { "DiscordJS", "3 Years" },
   { "Python", "5 Years" },
-  { "Discord LUAU", "2 Months" },
+  { "Discord LUAU", "3 Days" },
   { "MySQL", "3 Years" }
 ]
 

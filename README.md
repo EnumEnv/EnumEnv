@@ -1,5 +1,5 @@
 ## Hi there, individual 👋
-I'm EnumEnv. A programmer of many traits.
+I'm EnumEnv. A programmer of many traits, and **master** of all traits.
 
 ```javascript
 const LanguagesKnown: [{ string }] = [
@@ -15,7 +15,7 @@ const LanguagesKnown: [{ string }] = [
   { "MySQL", "3 Years" }
 ]
 
-LanguagesKnown.forEach((item) => {
+for (const item in LanguagesKnown) {
   console.log("I know " + item[0] + " for " + item[1])
-})
+}
 ```
